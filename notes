@@ -1,0 +1,13 @@
+npm install 
+npm init
+package.json
+express web frame 
+ejs login and register 
+.env file secret information 
+.gitignore 
+.env 
+node_modules 
+ignore git repo 
+database ke jaga pe local variable data ko stored kar raha hai 
+bcrypt 
+hashing and information 
